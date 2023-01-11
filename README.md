@@ -1,1 +1,3 @@
 # LeetCode
+
+### Longest Common Prefix
