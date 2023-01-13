@@ -7,3 +7,5 @@
 ### Contains Duplicate
 
 ### Valid Palindrome
+
+### Reverse Integer
