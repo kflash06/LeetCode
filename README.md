@@ -1,11 +1,11 @@
 # LeetCode
 
-### Longest Common Prefix
+### 1-Longest Common Prefix
 
-### Palindrome Number
+### 2-Palindrome Number
 
-### Contains Duplicate
+### 3-Contains Duplicate
 
-### Valid Palindrome
+### 4-Valid Palindrome
 
-### Reverse Integer
+### 5-Reverse Integer
