@@ -23,3 +23,5 @@
 ### 11- Remove Duplicate from sorted array
 
 ### 12- Remove Duplicate from Sorted list
+
+### 13- Remove Element
