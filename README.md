@@ -25,3 +25,5 @@
 ### 12- Remove Duplicate from Sorted list
 
 ### 13- Remove Element
+
+### 14- Add Sum
