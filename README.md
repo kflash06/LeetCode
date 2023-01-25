@@ -27,3 +27,5 @@
 ### 13- Remove Element
 
 ### 14- Add Sum
+
+### 15- plusOne
