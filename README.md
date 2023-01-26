@@ -29,3 +29,5 @@
 ### 14- Add Sum
 
 ### 15- plusOne
+
+### 16- Sqrt(x)
