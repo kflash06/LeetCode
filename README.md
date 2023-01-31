@@ -18,18 +18,18 @@
 
 ### 9-Length of last word
 
-### 10- Search Insert Position
+### 10-Search Insert Position
 
-### 11- Remove Duplicate from sorted array
+### 11-Remove Duplicate from sorted array
 
-### 12- Remove Duplicate from Sorted list
+### 12-Remove Duplicate from Sorted list
 
-### 13- Remove Element
+### 13-Remove Element
 
-### 14- Two Sum
+### 14-Two Sum
 
-### 15- plusOne
+### 15-plusOne
 
-### 16- Sqrt(x)
+### 16-Sqrt(x)
 
-### 17- Merge Sorted Array
+### 17-Merge Sorted Array
