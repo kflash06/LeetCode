@@ -40,4 +40,6 @@
 
 ### 20-Maximum depth of the tree 
 
-### 21-Move Zeroes
+### 21-Move Zeroes 
+
+## Move Zeroes Solution 2
