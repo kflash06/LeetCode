@@ -45,5 +45,3 @@
 ### Move Zeroes Solution 2
 
 ### 22-Minimum depth of the tree
-
-### solution 2
