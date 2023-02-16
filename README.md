@@ -47,3 +47,5 @@
 ### 22-Minimum depth of the tree
 
 ### 23-Combine Two Tables
+
+### 24-Employees Earning more than their manager
