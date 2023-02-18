@@ -51,3 +51,5 @@
 ### 24-Employees Earning more than their manager
 
 ### 25-Customers who never order
+
+### 26-Single Number
