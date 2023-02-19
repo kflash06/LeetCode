@@ -53,3 +53,5 @@
 ### 25-Customers who never order
 
 ### 26-Single Number
+
+### 27-Majority Element
