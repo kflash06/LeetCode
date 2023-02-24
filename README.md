@@ -63,3 +63,5 @@
 ### 30- Reverse String
 
 ### 31- Convert the Temperature 
+
+### 32- Maximum XOR after Operations
