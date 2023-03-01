@@ -69,3 +69,5 @@
 ### 33- Concatenation of Array 
 
 ### 34- Add Two Integers
+
+### 35- Smallest Even Multiple
