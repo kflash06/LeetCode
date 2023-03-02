@@ -71,3 +71,5 @@
 ### 34- Add Two Integers
 
 ### 35- Smallest Even Multiple
+
+### 36- Maximum Number of Words Found in Sentences
