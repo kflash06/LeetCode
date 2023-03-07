@@ -75,3 +75,5 @@
 ### 36- Maximum Number of Words Found in Sentences
 
 ### 37- Design a Parking lot
+
+### 38- Build Array from Permutation
