@@ -77,3 +77,5 @@
 ### 37- Design a Parking lot
 
 ### 38- Build Array from Permutation
+
+### 39- Difference Between Element Sum and Digit Sum of an Array
