@@ -78,4 +78,6 @@
 
 ### 38- Build Array from Permutation
 
+### 39- Number of Good Pairs
+
 ### 39- Difference Between Element Sum and Digit Sum of an Array
