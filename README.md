@@ -81,3 +81,5 @@
 ### 39- Number of Good Pairs
 
 ### 39- Difference Between Element Sum and Digit Sum of an Array
+
+### 40- Find the index of first occurrence in a String
