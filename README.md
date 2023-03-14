@@ -83,3 +83,5 @@
 ### 39- Difference Between Element Sum and Digit Sum of an Array
 
 ### 40- Find the index of first occurrence in a String
+
+### 41- Richest Customer Wealth
