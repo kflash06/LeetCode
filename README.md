@@ -85,3 +85,5 @@
 ### 40- Find the index of first occurrence in a String
 
 ### 41- Richest Customer Wealth
+
+### 42- Subtract the Product and Sum of Digits of an Integer
