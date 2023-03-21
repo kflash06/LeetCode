@@ -87,3 +87,11 @@
 ### 41- Richest Customer Wealth
 
 ### 42- Subtract the Product and Sum of Digits of an Integer
+
+### 43- Kids with the greatest Number of Candies
+
+### 44- Deepest Leaves Sum
+
+### 45- How many Numbers are smaller than current number
+
+### 46- Final Value of Variable after performing operations
