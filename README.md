@@ -95,3 +95,11 @@
 ### 45- How many Numbers are smaller than current number
 
 ### 46- Final Value of Variable after performing operations
+
+### 47- Sort the Students by Their Kth Score
+
+### 48- Split a String in Balanced Strings
+
+### 49- Range Sum of BST
+
+### 50- Maximum 69 Number
