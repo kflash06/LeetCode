@@ -105,3 +105,7 @@
 ### 50- Maximum 69 Number
 
 ### 51- Shuffle String
+
+### 52- Count the Digits That Divide a Number
+
+### 53- To lower Case
