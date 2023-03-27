@@ -109,3 +109,5 @@
 ### 52- Count the Digits That Divide a Number
 
 ### 53- To lower Case
+
+### 54- Number of Common Factors
