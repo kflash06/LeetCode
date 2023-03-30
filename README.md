@@ -111,3 +111,7 @@
 ### 53- To lower Case
 
 ### 54- Number of Common Factors
+
+### 55- Reverse Prefix of Word
+
+### 56- Sort the People
