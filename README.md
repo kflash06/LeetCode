@@ -121,3 +121,5 @@
 ### 58- Find the Highest Altitude
 
 ### 59- Decompress Run-Length Encoded List
+
+### 60- Create Target Array in the Given Order
