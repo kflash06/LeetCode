@@ -123,3 +123,5 @@
 ### 59- Decompress Run-Length Encoded List
 
 ### 60- Create Target Array in the Given Order
+
+### 61- Strictly Palindromic Number
