@@ -125,3 +125,5 @@
 ### 60- Create Target Array in the Given Order
 
 ### 61- Strictly Palindromic Number
+
+### 62- Design an Ordered Stream
