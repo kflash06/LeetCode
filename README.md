@@ -127,3 +127,5 @@
 ### 61- Strictly Palindromic Number
 
 ### 62- Design an Ordered Stream
+
+### 63- Sum of Unique Elements
