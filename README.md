@@ -131,3 +131,5 @@
 ### 63- Sum of Unique Elements
 
 ### 64- Find Target Indices After Sorting Array
+
+### 65- Power of Two
